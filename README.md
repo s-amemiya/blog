@@ -1,1 +1,4 @@
-# s-amemiya.github.io
+blog
+=====
+
+http://blog.s-amemiya.com
