@@ -19,6 +19,6 @@
   },
   "scripts": {
     "clean": "hexo clean",
-    "deploy": "yarn run clean && hexo deploy"
+    "deploy": "hexo clean && hexo build && hexo deploy"
   }
 }
