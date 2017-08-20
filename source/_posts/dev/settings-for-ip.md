@@ -1,4 +1,4 @@
-title: settings-for-ip
+title: UbuntuのIP設定
 date: 2017-08-17 13:42:21
 tags:
 ---
