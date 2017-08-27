@@ -1,4 +1,4 @@
-title: 20170730_dessin
+title: 7/30 デッサン教室体験入学
 date: 2017-07-30 20:12:45
 tags: dessin
 ---

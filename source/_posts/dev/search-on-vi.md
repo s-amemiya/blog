@@ -1,4 +1,4 @@
-title: search-on-vi
+title: viで文字列検索
 date: 2017-08-17 15:28:30
 tags:
 ---
