@@ -11,10 +11,9 @@ $ yarn add -D vue-material
 
 ## 使用準備
 ```
+import Vue from 'vue'
+import VueMaterial from 'vue-material'
 import 'vue-material/dist/vue-material.css'
-
-var Vue = require('vue')
-var VueMaterial = require('vue-material')
 
 Vue.use(VueMaterial)
 ```
