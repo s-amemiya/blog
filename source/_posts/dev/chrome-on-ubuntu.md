@@ -8,3 +8,6 @@ $ sudo wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo
 $ sudo apt-get update
 $ sudo apt-get install google-chrome-stable
 ```
+
+#### 参考
+[UbuntuにGoogle Chromeを簡単にインストールする方法](https://www.karelie.net/how-to-install-google-chrome-on-ubuntu/)
