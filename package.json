@@ -22,7 +22,8 @@
     "build": "hexo build",
     "server": "hexo server",
     "dev": "hexo server",
-    "deploy": "hexo clean && hexo build && hexo deploy"
+    "deploy": "hexo clean && hexo build && hexo deploy",
+    "theme": "git clone https://github.com/joyceim/hexo-theme-apollo.git themes/apollo"
   },
   "devDependencies": {
     "hexo-cli": "^1.1.0"
