@@ -3,9 +3,13 @@ date: 2018-04-11 00:00:00
 tags: vue
 ---
 
+# Add vuex
+
 ```shell
 yarn add -D vuex
 ```
+
+# Make ./store/index.js
 
 ```javascript
 // ./store/index.js
@@ -27,6 +31,8 @@ export default new Vuex.Store({
 })
 
 ```
+
+# Modify ./main.js
 
 ```javascript
 // ./main.js
