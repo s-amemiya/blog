@@ -1,6 +1,6 @@
 title: Preparation for using Vuex
 date: 2018-04-11 00:00:00
-tags: vue
+tags: vuejs
 ---
 
 # Add vuex
